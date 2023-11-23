@@ -44,7 +44,7 @@ function Projects(){
     </div>
     <div class="box" style={{ marginLeft: "5%" }}>
         <div className="title">
-            <h4>About Project</h4>
+            <h4>Insights</h4>
         </div>
         <div className="info">
             <ul type="disc">
@@ -75,7 +75,7 @@ function Projects(){
     </div>
     <div class="box" style={{ marginLeft: "5%" }}>
         <div className="title">
-            <h4>About Project</h4>
+            <h4>Insights</h4>
         </div>
         <div className="info">
             <ul type="disc">
@@ -103,7 +103,7 @@ function Projects(){
     </div>
     <div class="box" style={{ marginLeft: "5%" }}>
         <div className="title">
-            <h4>About Project</h4>
+            <h4>Insights</h4>
         </div>
         <div className="info">
             <ul type="disc">
