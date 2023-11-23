@@ -37,7 +37,7 @@ function Home(){
     <div className='row'>
         <div className='text' >
             <p style={{textAlign:'left',marginTop:'2%'}}>Computer Engineering Student from K.J. Somaiya College of Engineering. Interest on problem solving and analysing data and website development.
-                 Also passionate about field of finance and market along with management. An ardent sports lover and represented my school in various competitions and played Inter-District Championships in Basketball.</p>
+                 Also passionate about field of finance and market along with management. An ardent sports lover, represented my school in various competitions and played Inter-District Championships in Basketball.</p>
         </div>
     </div>
 
