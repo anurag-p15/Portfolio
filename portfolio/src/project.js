@@ -96,7 +96,7 @@ function Projects(){
     </div>
     <div className="col-sm-6">
         <div className='row'>
-            <div className="image" style={{ width: '100%', marginBottom: '20px' }}>
+            <div className="image" style={{ width: '100%', marginBottom: '5%',marginTop:'5%' }}>
                 <img src="https://user-images.githubusercontent.com/108535343/285189443-eeb9686e-cdda-4f37-a342-5667982d75a9.png" style={{ width: '100%', height: 'auto' }} />
             </div>
         </div>
