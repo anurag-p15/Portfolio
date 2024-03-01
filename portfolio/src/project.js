@@ -11,8 +11,8 @@ function Projects(){
     return(
         <div>
         <div className="tabs">
-      <button className="tab-btn_active" onClick={() => navigate('/')}>About Myself</button>
-      <button className="tab-btn" onClick={() => navigate('/projects')}>Projects</button>
+      <button className="tab-btn" onClick={() => navigate('/')}>About Myself</button>
+      <button className="tab-btn_active" onClick={() => navigate('/projects')}>Projects</button>
   </div>
             <div className="row" style={{borderBottom:"7px solid white",paddingLeft: '5%',paddingTop:'5%', paddingRight:'5%'}}>
                       <div>
